@@ -91,7 +91,9 @@ rotations (i added a 2$\pi$ rotation because the star was upside down).
 
 $$
 \large \boxed{x(t)=2cos(t +\theta)+5sin(\frac{2t}{3}+\theta),y(t)=2sin(t +\theta)+5cos(\frac{2t}{3}+\theta)}
-$$ ![](estrelinha.png "Star")
+$$
+
+![](estrelinha.png "Star")
 
 ### base plot
 
