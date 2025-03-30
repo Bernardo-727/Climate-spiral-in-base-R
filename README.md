@@ -86,8 +86,8 @@ parametric.draw <- function(range,funct,precision=100,...)
 just for fun (and also to show it works), i’ll plot this curve i found
 by googling “cool parametric curves”.
 
-t is the parameter ranging from 0 to 6$\pi$, and $\theta$ is for extra
-rotations (i added a 2$\pi$ rotation because the star was upside down).
+t is the parameter ranging from 0 to 6 $\pi$, and $\theta$ is for extra
+rotations (i added a 2 $\pi$ rotation because the star was upside down).
 
 $$
 \large \boxed{x(t)=2cos(t +\theta)+5sin(\frac{2t}{3}+\theta),y(t)=2sin(t +\theta)+5cos(\frac{2t}{3}+\theta)}
